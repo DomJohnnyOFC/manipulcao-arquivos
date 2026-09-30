@@ -1,0 +1,4 @@
+Olá, mundo!
+Estou aprendendo Python.
+
+Estou estudando manipulação de arquivos.

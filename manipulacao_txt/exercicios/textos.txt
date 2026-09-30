@@ -1,0 +1,4 @@
+Python é uma linguagem de programação.
+Python pode ser utilizada para desenvolvimento web.
+Python também é muito utilizada em ciência de
+dados.

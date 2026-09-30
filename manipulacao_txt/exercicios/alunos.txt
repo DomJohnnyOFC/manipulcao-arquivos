@@ -1,0 +1,7 @@
+Ana;8.5
+Bruno;5.0
+Carlos;7.2
+Daniela;9.0
+Eduardo;4.5
+Fernanda;6.8
+Gabriel;5.9

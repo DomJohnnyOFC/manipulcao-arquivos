@@ -1,0 +1,3 @@
+Estou aprendendo Python
+Estou aprendendo arquivos TXT
+Python é muit legal!
